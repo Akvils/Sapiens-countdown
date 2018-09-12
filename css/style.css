@@ -35,7 +35,14 @@ html, body {
   height: 300px;
 }
 
-#intro p, h2 {
+#intro p {
+  color: white;
+  text-align: center;
+  font-family: 'Merienda', cursive;
+  font-size: 1.4em;
+}
+
+p, h2 {
   color: white;
   text-align: center;
   font-family: 'Merienda', cursive;
